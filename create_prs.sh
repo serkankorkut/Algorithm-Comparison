@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in {5..100}
+for i in {41..100}
 do
    git checkout master
    git checkout -b "branch$i"
